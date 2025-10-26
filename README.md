@@ -72,9 +72,8 @@ If the direct link to .shortcut files is not working, you can [download the .zip
 
 Shortcuts App doesn't allow shortcuts to run without a _trigger_. The solution to automatically refresh your selected Wallpaper is using the Automations option inside the Shortcuts App.
 
-**Visual Guide:** Watch the [Automation Setup Video](Automation%20Setup.MP4) for a step-by-step visual tutorial.
+**Visual Guide:** [![Automation Setup Video](https://img.youtube.com/vi/grA4eeCjKK0/0.jpg)](https://www.youtube.com/watch?v=grA4eeCjKK0)
 
-  
 
 ### Step-by-Step Instructions:
 
