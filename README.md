@@ -68,31 +68,37 @@ If the direct link to .shortcut files is not working, you can [download the .zip
 
   
 
-## Automating
+## Automation
 
 Shortcuts App doesn't allow shortcuts to run without a _trigger_. The solution to automatically refresh your selected Wallpaper is using the Automations option inside the Shortcuts App.
 
+**Visual Guide:** Watch the [Automation Setup Video](Automation%20Setup.MP4) for a step-by-step visual tutorial.
+
   
+
+### Step-by-Step Instructions:
 
 - Open Shortcuts App
 
 - Open the "Automation" tab
 
-- On right-top, use the "+" to create a new automation
+- On right-top, use the "+" or "New Automation" button to create a new automation
 
 - Use the following setup:
 
-  - *Select:* Time of the Day
+  - *Click/Tap:* Time of the Day
 
-  - Set up the hour and minute when you want the Wallpaper to be updated
+  - *Click/Tap:* Time of Day
 
-  - *Repeat:* Pick the option that works better for you
+  - Set up the Hour and Minute when you want the Wallpaper to be updated
 
-  - *Select:* Execute Immediately
+  - *Repeat:* Daily
 
-  - *Disable:* Notify
+  - *Select:* Run Immediately
 
-  - Click on "Next" at top-right
+  - *Disable:* Notify When Run
+
+  - *Click/Tap*: "Next" at top-right
 
   - Choose the *Live Earth Wallpapers* shortcut
 
